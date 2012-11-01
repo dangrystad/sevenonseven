@@ -1,0 +1,1 @@
+IO.foreach("tree.rb") { |line| puts line if line =~ /tree/ }

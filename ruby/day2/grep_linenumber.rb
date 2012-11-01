@@ -1,0 +1,1 @@
+IO.readlines("tree.rb").each_with_index { |x,i| puts "#{i+1}: #{x}" if x =~ /tree/ }
